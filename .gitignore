@@ -1,6 +1,0 @@
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-
-git add .
-git commit -m "Adiciona arquivos iniciais do projeto"
-git push origin main
