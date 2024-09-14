@@ -65,3 +65,18 @@ body::before {
 body:hover::before {
     transform: scale(1.15);
 }
+
+footer {
+    position: relative;
+    padding: 10px;
+    text-align: center;
+    background-color: #f1f1f1;
+}
+
+.footer-logo {
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    width: 100px; /* Ajuste o tamanho conforme necessário */
+    height: auto;
+}
